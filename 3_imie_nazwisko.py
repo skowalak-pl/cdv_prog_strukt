@@ -39,6 +39,6 @@ print(surname[-2]) # k
 print(surname[-2:]) # ki
 print(surname[:-2]) # Nowakows
 print(surname[:-2:2]) # Nwkw
-
+print("Test")
 
 
